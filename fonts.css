@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'FuturaTSCondensed';
+    src: url(fonts/FuturaTSCondensed-Regular.ttf);
+}
+@font-face {
+    font-family: 'FuturaTSCondensed';
+    src: url(fonts/FuturaTSCondensed-DemiBold.ttf);
+}
+@font-face {
+    font-family: 'FuturaTSCondensed';
+    src: url(fonts/FuturaTSCondensed-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'FuturaTSCondensed';
+    src: url(fonts/FuturaTSCondensed-ExtraLight.ttf);
+}
+@font-face {
+    font-family: 'FuturaTSCondensed';
+    src: url(fonts/FuturaTSCondensed-Heavy.ttf);
+}
+@font-face {
+    font-family: 'FuturaTSCondensed';
+    src: url(fonts/FuturaTSCondensed-Light.ttf);
+}
+@font-face {
+    font-family: 'FuturaTSCondensed';
+    src: url(fonts/FuturaTSCondensed-Medium.ttf);
+}
